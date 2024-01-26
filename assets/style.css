@@ -205,7 +205,7 @@ body {
  
 /***** Modification de la classe (active => active-tag) *****/
 .nav-pills .nav-link.active-tag, .nav-pills .show > .nav-link {
-	color: #fff;
+	color: #000;
 	background-color: #BEB45A;
 	border-radius:0 ;
 }
