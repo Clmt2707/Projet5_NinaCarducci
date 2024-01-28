@@ -143,7 +143,10 @@ body {
 .social-link img {
 	width: 20px;
 }
-
+.size {
+	width: 100%;
+	height: auto;
+}
 #about {
 	display: flex;
 	background-color: #F6D2B8;
@@ -162,7 +165,7 @@ body {
 	left: 0;
 	z-index: -1;
 }
-
+ loading="lazy"
 .picture {
 	flex: 1;
 	margin: 0 20px;
