@@ -162,10 +162,7 @@ body {
 	left: 0;
 	z-index: -1;
 }
-.size {
-	width: 100%;
-	height: auto;
-}
+
 .picture {
 	flex: 1;
 	margin: 0 20px;
